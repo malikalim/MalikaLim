@@ -13,6 +13,7 @@ In a remote setting for meetings unless it’s on a 1:1 setting I will generally
 I much prefer slack over email. I’m a context over content person usually, I like knowing why or where a message is coming from. Reading between the lines sounds like my worst nightmare. I like including the urgency in [brackets] in a slack message so I know when to respond to a message. Sometimes I see a message popup in slack and my response is to drop what I’m doing to answer it because I perceive it to be high importance. That isn’t always the case! So including the urgency is really helpful for me 😁
 
 Example of a slack message might look like this
+
 ```Hey 👋 [Not urgent]. Reaching out from a thought I had earlier about this meeting. Doesn't need a reply today!```
 
 [My go-to emoji codes]
