@@ -2,7 +2,7 @@
 
 Hi! If you’ve come to this page it likely means you are looking to work with me now or in the future. That’s pretty exciting! I’m going to give you a little breakdown of who I am and how I work best.
 
-[About Me]
+### [About Me]
 I’m Malika. My name is pronounced like this Mah-lee-caw, if you’d like to hear it I usually include an audio recording in my slack profile. My pronouns are They/She. 
 A little bit about me. I’m a ENTP-T. I am neurodivergent and therefore more extroverted provided I’m not masking.
 
@@ -16,14 +16,15 @@ Example of a slack message might look like this
 
 ```Hey 👋 [Not urgent]. Reaching out from a thought I had earlier about this meeting. Doesn't need a reply today!```
 
-[My go-to emoji codes]
+### [My go-to emoji codes]
+
 - 👀 seen and looking (might not have an immediate response but it is on my radar)
 - ✅ task/request done
 - ❤️ / 🙏 acknowledging your response but I might not have one of my own
 - 👩‍💻 focus block (in slack status), generally this means I'm working away at something so might be a bit slow to respond.
 - I like to update my display name in slack when out of office, I will also update my calendar for ooo time slots. I like to utilize focus blocks as well on my calendar. If you see a focus block it doesn’t always mean I’m busy, just means that I am heads down at work on something as I find it easier to work when I’m not context switching. If you want to book a meeting with me just dm, I’m usually happy to move things around!
 
-[Tips and tricks of tools I like to use]
+### [Tips and tricks of tools I like to use]
 
 - [Funkify](https://www.funkify.org/)
 
