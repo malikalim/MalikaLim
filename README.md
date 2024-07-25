@@ -38,9 +38,11 @@ Example of a slack message might look like this
 
 - [Live Captions on Google Chrome](https://support.google.com/chrome/answer/10538231?hl=en)
 
-Slack Integrations:
-Google Calendar Updates your slack status for you!
-Github reminders - Notifications you've been tagged etc
-Slite docs - Notifications for updates
+- [Grammarly](https://app.grammarly.com/)
 
+Slack Integrations:
+- Google Calendar Updates your slack status for you!
+- Github reminders - Notifications you've been tagged etc
+- Slite docs - Notifications for updates
+- Confluence / Jira - Notifications for updates
 
