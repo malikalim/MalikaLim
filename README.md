@@ -43,6 +43,5 @@ Example of a slack message might look like this
 Slack Integrations:
 - Google Calendar Updates your slack status for you!
 - Github reminders - Notifications you've been tagged etc
-- Slite docs - Notifications for updates
 - Confluence / Jira - Notifications for updates
 
